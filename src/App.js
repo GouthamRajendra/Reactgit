@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>My react App Updated with all files </h1>
-      <p>just for fun</p>
+      <p>just for iuhdvoid fun</p>
       <One/>
       <Myapp/>
 
