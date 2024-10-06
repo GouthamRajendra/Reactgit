@@ -1,6 +1,8 @@
 
 import './App.css';
 import Fuckyou from './fuckyou/Fuckyou';
+import One from './praveen/one';
+import Myapp from './components/myapp';
 
 
 function App() {
@@ -10,6 +12,9 @@ function App() {
       <p>kxjbvjk</p>
       <h1>xljbxjdl</h1>
       <Fuckyou/>
+      <p>just for fun</p>
+      <One/>
+      <Myapp/>
     </div>
   );
 }
