@@ -1,5 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Fuckyou from './fuckyou/Fuckyou';
+
 
 function App() {
   return (
@@ -7,6 +9,7 @@ function App() {
       <h1>My react App Updated with all files </h1>
       <p>kxjbvjk</p>
       <h1>xljbxjdl</h1>
+      <Fuckyou/>
     </div>
   );
 }
